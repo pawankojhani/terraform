@@ -3,8 +3,11 @@ Deploy A Three-Tier Architecture in AWS With Terraform
 **Prerequisites**
 
 1- Install Terraform
+
 2- Install the AWS CLI
+
 3- Sign up for an AWS Account
+
 4- Your preferred IDE (I used Visual Studio Code)
 
 file name:- three-tier-environment.tf
